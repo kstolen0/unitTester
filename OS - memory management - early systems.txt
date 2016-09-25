@@ -1,0 +1,176 @@
+[
+    [
+        "System performance is dependent on what two items?",
+        "Amount of memory available and optimization of memory during job processing. ",
+        "avail",
+        "optimiz",
+        "memor"
+    ],
+    [
+        "Memory management means: ",
+        "Being aware of what parts of the memory are in use and which parts are not. Allocating memory to processes when they request it and deallocating memory when a process releases it. Moving data from memory to disk, when the physical capacity becomes full, and vice-versa. Stopping programs interfering with memory that doesn't belong to them. ",
+        "aware",
+        "in use",
+        " not",
+        "alloc",
+        "dealloc",
+        "releas",
+        "req",
+        "mov",
+        "to disk",
+        "full",
+        "stop",
+        "interfer"
+    ],
+    [
+        "Describe a single user contiguous scheme. ",
+        "Entire program is loaded into memory. Contiguous memory space allocated as needed. Jobs are processed sequentrially. Memory manager performs minimal work.",
+        "entire",
+        "load",
+        "contig",
+        "sequ"
+    ],
+    [
+        "What are the memory manager's responsibilities in a single user scheme? ",
+        "Evaluate incoming process size, loads if small enough to fit; otherwise rejects and evaluates next incoming process. Monitors occupied memory space; when process ends, makes entire memory space available. ",
+        "eval",
+        "process size",
+        "small enough",
+        "reject",
+        "next",
+        "monit",
+        "occu",
+        "ends",
+        "avail"
+    ],
+    [
+        "Describe a fixed partition. ",
+        "Permits multiprogramming. Main memory partitioned, each partition given one job. Static sizes, reconfiguring requres system shut down. ",
+        "multip",
+        "partit",
+        "one job",
+        "static",
+        "shut down"
+    ],
+    [
+        "What are the responsibilities of the memory manager in a fixed partition system? ",
+        "Protecting each job's memory space. Matching job size with partition size. ",
+        "protect",
+        "memory space",
+        "match",
+        "size"
+    ],
+    [
+        "Describe the characteristics of a fixed partition.",
+        "Requires contiguous loading of entire program. Job allocation method: first available partition with required size. To work well: all jobs have similar size and memory size known ahead of time. Arbitrary partition size leads to undesired results. Partition too small: large jobs have longer turnaround time. Partition too large: internal fragmentation. ",
+        "contiguous load",
+        "entire prog",
+        "first avail",
+        "work well",
+        "similar size",
+        "ahead of time",
+        "arbitr",
+        "undesir",
+        "turnaround time",
+        "internal frag"
+    ],
+    [
+        "Describe the dynamic partition scheme. ",
+        "Main memory partitioned, jobs given requested memory when loaded. On contiguous partition per job. Job allocation method first come first serve, memory waste comparitively small within partitions. ",
+        "partit",
+        "given req",
+        "contiguous",
+        "first come first serve"
+    ],
+    [
+        "What are the disadvantages of dynamic partitions? ",
+        "Full memory utilization only when first jobs loaded. Subsequent allocation leads to memory waste as external fragmentation (fragments between blocks). ",
+        "utili",
+        "first jobs",
+        "subseq",
+        "memory wast",
+        "external frag"
+    ],
+    [
+        "What are two methods for free space allocation? ",
+        "Best fit and first fit allocation. ",
+        "best",
+        "fit",
+        "first"
+    ],
+    [
+        "Describe first fit memory allocation.",
+        "Free/busy lists are organized by memory location (low to high order memory). Job assigned first partition large enough. Fast allocation.",
+        "location",
+        "first",
+        "large enough",
+        "fast"
+    ],
+    [
+        "Describe best fit memory allocation.",
+        "Free/busy lists ordered by size (smallest to largest). Job assigned smallest partition large enough. Least wasted space, internal frag reduced. ",
+        "size",
+        "smallest parti",
+        "large enough"
+    ],
+    [
+        "Describe the differences between best fit and first fit memory allocation. ",
+        "In best fit, free/busy lists are ordered by size and jobs are assigned the smallest partition large enough for the job. In first fit, free/busy lists are organized by memory location and jobs are assigned the first partition large enough. ",
+        "size",
+        "smallest parti",
+        "location",
+        "first"
+    ],
+    [
+        "Describe some hypothetical memory allocation schemes. ",
+        "Next fit: start search from last allocated block for next available block. Worst fit: allocates largest free available block. ",
+        "Next fit",
+        "last alloc",
+        "next avail",
+        "worst fit",
+        "largest"
+    ],
+    [
+        "Describe relocatable dynamic partition schemes. ",
+        "Memory manager relocates programs, all empty blocks are gathered together to make one memory block large enough to accommodate some or all waiting jobs. ",
+        "one mem"
+    ],
+    [
+        "What lists have to be updated in a relocatable dynamic partition? ",
+        "Free list: showing the partition for the new block of free memory. Busy list: showing the new location: all relocated jobs already in process. Each job: assigned new addresses, except those already at the lowest memory locations. ",
+        "free list",
+        "busy list",
+        "each job",
+        "new block",
+        "new location",
+        "new address",
+        "except"
+    ],
+    [
+        "What is compaction?",
+        "Operating system reclaims fragmented memory space sections. Most or all programs in memory are relocated in a contiguous arrangement. ",
+        "reclaim",
+        "frag",
+        "reloca",
+        "contiguous"
+    ],
+    [
+        "Define deallocation and describe how it works in different management schemes. ",
+        "Deallocation is the process of releasing allocated memory space. Straight forward process for fixed partition systems. Memory manager resets job's memory block status to free upon job completion. Dynamic partition tries to combine free areas of memory. ",
+        "releas",
+        "straight",
+        "fixed",
+        "reset",
+        "block status",
+        "dynamic",
+        "combine"
+    ],
+    [
+        "What are the three cases a memory block can exists in when being deallocated? ",
+        "Case 1: adjacent to another free block. Case 2: between two free blocks. Case three: isolated from other free blocks. ",
+        "adja",
+        "free block",
+        "between",
+        "isolated"
+    ]
+]

@@ -1,0 +1,64 @@
+[
+    [
+        "Explain the aim of security; Confidentiality. ",
+        "Ensure that information or systems should only be read and accessed by suthorized people. Methods of ensuring confidentiality are encryption: the transformation of data using a secret, so that the transformed data can only be read using another secret. Access control: rules and policies that limit access to those people and/or systems eith a need to know basis.",
+        "information or system",
+        "read and access",
+        "authorized",
+        "encryption",
+        "transform",
+        "secret",
+        "rule",
+        "policy",
+        "limit access",
+        "need to know"
+    ],
+    [
+        "Explain the aim of security: Availability. ",
+        "Ensures that information or systems are accessible and modifiable in a timely fashion by those authorized to do so. Methods of ensuring availability are access control, computaitional redundancies and physical protection mechanisms. Methods of breaching Availability are; employee switching off a critical server. Website being overwhelmed by fake requests and cannot provide services to clients (DOS). Ethernet cable being removed from switch. ",
+        "access",
+        "modif",
+        "timely fashion",
+        "authorized",
+        "off",
+        "critical server",
+        "website",
+        "overwhelmed",
+        "fake req",
+        "remove",
+        "switch",
+        "ethernet",
+        "access",
+        "control",
+        "redundan",
+        "physical"
+    ],
+    [
+        "Explain the aim of security: Integrity.",
+        "Ensures that information or systems are not tampered with. Methods of breaching integrity include hard disk malfunctions which corrupt data. An employee making unauthorized changes to values in a database. Methods of ensuring integrity are regular backups, checksums and data correcting codes. ",
+        "not",
+        "altered",
+        "unauthorized",
+        "tampered",
+        "hard disk",
+        "malfunc",
+        "corrupt",
+        "unauthorized chang",
+        "database"
+    ],
+    [
+        "Explain the aim of security: Authenticity.",
+        "Ensure that an entity is able to prove or verify that it is who or what it claims to be.",
+        "entity",
+        "prove",
+        "verify",
+        "claim"
+    ],
+    [
+        "Explain the aim of security: non-repudiation/accountability.",
+        "Ensure that people can't falsely deny their actions.",
+        "fals",
+        "deny",
+        "action"
+    ]
+]

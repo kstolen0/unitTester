@@ -1,0 +1,9 @@
+[
+    "Applied Comms",
+    "Comp Sec",
+    "Operating Systems",
+    "Sys & Databases",
+    "Test unit",
+    "Applied Comms - Difficult",
+    "OS - memory management - early systems"
+]

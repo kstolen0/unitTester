@@ -1,0 +1,114 @@
+Describe how error checking is handled in the data link layer. 
+
+Error checking is accomplished by a 4-byte frame check sequence field.
+	(4-byte field does the job)
+
+Whose purpose is to ensure that the data at teh destination exactly match 
+the data issued from the source.
+	(FCS purpose)
+
+When the source node transmits the data, it performs an algorithm called a 
+cycic redundancy check.
+	(source transmits)
+
+CRC takes the values of all the preceding fields in the frame and generates a 
+unique 4-byte number, the FCS.
+	(What CRC does)
+
+When the destination node receives the frame, its data link services unscramble 
+the FCS via the same CRC algorithm and ensure that the frame's fields match their 
+original form. 
+	(when dest gets frame)
+
+If the comparrison fails, the receiving node assumes that the frame has been damaged 
+in transit and requests that the source node retransmit the data. 
+	(if it fails)
+	
+accomplished by a 4-byte frame check sequence (FCS) field, whose purpose is to ensure that the 
+data at the destination exactly match the data issued from the source. 
+
+When the source node transmits the data, it performs an algorithm called a 
+cyclic redundancy check. 
+
+The CRC take the values of all the preceding fields in the frame and 
+generates a unique 4-byte number, the FCS.
+
+When destination node receives frame, its datalink services unscramble
+the fcs via the same crc alg and ensure the frames fields match their original form. 
+
+if it fails, receiving node assumes frame has been damaged in transit and requests that 
+the source node retransmits the data. 
+
+
+///////////
+
+Describe FHSS and DSSS spread spectrum technology. (frequencies) 
+
+FHSS transmission: signal jumps between several different freq within a band in a syns pattern 
+					known only to the channel's receiver and transmitter.
+			
+DSSS transmission: A signal's bits are distributed over entire frequency band at once. 
+
+
+/////////////////
+
+Explain how the traceroute utitlity uses ICMP ECHO requests to trace the path from 
+	one networked node to another. 
+	
+It transmits a series of UDP datagrams to a specified destination. 
+using either the IP address or the host name to identify the destination. 
+
+
+///////////////
+
+What is the purpose of the frame control field in an 802.11 frame?
+
+Holds info about protocol in use.
+Type of frame being transmitted.
+Whether thee frame is part of a larger, fragmented packet. 
+Whether the frame is one that was reissued after an unverified delivery attempt. 
+Type of security frame uses. 
+
+
+/////////////////
+
+Describe what distinguishes 802.1x from other authentication standards. 
+
+Applies to communication with a particular port. 
+
+When a client wants to access the network, a port on the authenticator challenges the client 
+to prove its identity. 
+
+If the client is running the proper 802.1x software, the client will supply the 
+authenticator with its credentials.
+
+
+////////////////
+
+Describe L2TP technology
+
+Based on tech developed by Cisco and standardized by IETF.
+
+Encapsulates PPP data in a similar manner to PPTP but unlike PPTP, 
+is a standard accepted and used by multiple different vendors. 
+
+So it can connect a VPN that uses a mix of equipment types. 
+
+
+////////////////
+
+Within an ethernet frame, describe the FCS field and explain how it is used to make the header. 
+
+ensures data received by the destination node 
+exactly match the data sent by the source node 
+using the CRC algorithm. 
+
+
+
+
+
+
+
+
+
+

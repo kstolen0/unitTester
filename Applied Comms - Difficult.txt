@@ -1,0 +1,103 @@
+[
+    [
+        "Describe how error checking is handled in the data link layer. ",
+        "Error checking is accomplished by a 4-byte frame check sequence (FCS) field, whose purpose is to ensure that the data at the destination exactly match the data issued from the source. When the source node transmits the data, it performs an algorithm called a cyclic redundancy check (CRC). CRC takes the values of all the preceding fields in the frame and generates a unique 4-byte number, the FCS. When the destination node receives the frame, its data link services unscramble the FCS via the same CRC algorithm and ensure that the frame's fields match their original form. If the comparison fails, the receiving node assumes that the frame has been damaged in transit and requests that the source node retransmit the data.",
+        "4-byte",
+        "frame check sequence",
+        "match",
+        "algorithm",
+        "crc",
+        "preceding fields",
+        "unscramble",
+        "damaged in transit",
+        "retransmit"
+    ],
+    [
+        "Define and describe sequencing. ",
+        "A method of identifying segments that belong to the same group of subdivided data. Indicates where a unit of data begins, as well as the order in which the groups were issued and how they should be interpreted. While establishing a connection, TLPs from two devices agree on certain parameters of their communication, including a sequencing scheme. In order for sequencing to work properly, the TLPs of two nodes must sync their timing and agree on a starting point for the transmission. ",
+        "identi",
+        "segment",
+        "same group",
+        "subdivided data",
+        "begins",
+        "order in which",
+        "interpreted",
+        "while establi",
+        "tlps",
+        "parameters",
+        "includ",
+        "sequencing scheme",
+        "work properly",
+        "sync",
+        "timing",
+        "starting point for the transmission"
+    ],
+    [
+        "Describe FHSS and DSSS spread spectrum technology. ",
+        "In FHSS transmission, a signal jumps between several differnt frequencies within a band in a synchronized pattern known only to the channel's receiver and transmitter. In DSSS, a signal's bits are distributed over an entire frequency band at once. ",
+        "transmition",
+        "signal jumps",
+        "different freq",
+        "sync",
+        "known only",
+        "receiv",
+        "transmitter",
+        "bits are dis",
+        "entire freq"
+    ],
+    [
+        "Explain how the traceroute utility uses ICMP ECHO requests to trace the path from one networked node to another.",
+        "It transmits a series of UDP datagrams to a specified destination, using either the IP address or the host name to identify the destination. ",
+        "series",
+        "udp datagram",
+        "destin",
+        "ip address",
+        "host name"
+    ],
+    [
+        "What is the purpose of the frame control field in an 802.11 frame? ",
+        "Holds information about the protocol in use, the type of frame being transmitted, whether the frame is part of a larger, fragmented packet, whether the frame is one that was reissued after an unverified delivery attemp, what type of security the frame uses and more. ",
+        "protocol",
+        "type of frame",
+        "larger",
+        "fragment",
+        "reissued",
+        "secur"
+    ],
+    [
+        "Describe what distinguishes 802.1x from other authentication standards. ",
+        "Applies to communication with a particular port. When a client want to access the network, a port on the authenticator challenges th client to prove its identity. If the client is running the proper 802.1x software, the client will supply the authenticator with its credentials. ",
+        "port",
+        "access the network",
+        "authenticator",
+        "prove",
+        "identity",
+        "proper 802.1x software",
+        "credentials"
+    ],
+    [
+        "Describe L2TP technology. ",
+        "Based on technology developed by Cisco and standardized by IETF. It encapsulates PPP data in a similar manner to PPTP but unlike PPTP, it is a standard accepted and used by multiple different vendors so it can connect a VPN that uses a mix of equipment types.",
+        "based",
+        "cisco",
+        "ietf",
+        "encapsulates",
+        "PPP data",
+        "PPTP",
+        "standard",
+        "different vendors",
+        "connect a vpn"
+    ],
+    [
+        "Within an ethernet frame, describe the FCS field and explain how it is used to make the header. ",
+        "Ensures data received by the destination node exactly matches the data sent by the source by using the CRC algorithm. Together, the FCS and header make up the 18 byte frame for the data. ",
+        "receiv",
+        "dest",
+        "match",
+        "source",
+        "crc alg",
+        "together",
+        "fcs and header",
+        "18 byte frame"
+    ]
+]
