@@ -1,4 +1,5 @@
 
+#   COMMENT YOUR CODE! :@
 
 import json
 import random
@@ -20,7 +21,7 @@ def main():
                  print(i+1, '. ', units[i])
 
         print("a .  Add unit")
-        print("e .  Exit program")       
+        print("e .  Exit program")
 
         unitSel = input('')
         try:
@@ -28,18 +29,18 @@ def main():
             try:
                 LoadQuestions(units[unitSel-1])
             except IndexError:
-                print("index out of range\n")                
+                print("index out of range\n")
         except Exception:
             if unitSel == "a" or unitSel == "A":
                 units = AddUnit(units)
             elif unitSel == "e" or unitSel == "E":
                 print("Good luck")
                 break
-        
+
 
 
 def AddUnit(units):
-    try:        
+    try:
         unitTitle = input("Enter the unit title: ")
         units.append(unitTitle)
 
@@ -70,7 +71,7 @@ def LoadQuestions(unit):
         if uInput == 't':
             TestExam(questions)
         elif uInput == 'a':
-            questions = AddQuestion(questions,unitfile)            
+            questions = AddQuestion(questions,unitfile)
         elif uInput == 'l':
             ListQuestions(questions)
         elif uInput == 'd':
@@ -96,7 +97,7 @@ def TestExam(questions):
     for i,q in enumerate(questions,start=1):
         if i > testLen:
             break
-        
+
         keyCount = 0
         print(i,',',q[0])
         userAnswer = input("")
@@ -109,17 +110,17 @@ def TestExam(questions):
         score += keyCount
     print("You scored ", score, " out of ", total)
     print("\n\t", int((score/total*100)), "%\n")
-    
 
-def DeleteQuestion(questions,unitfile):    
+
+def DeleteQuestion(questions,unitfile):
     try:
         print("Enter the question number you wish to delete, between 1 and ", len(questions))
         delInt = input("")
         try:
             delInt = int(delInt)
-            del questions[delInt-1]    
+            del questions[delInt-1]
         except Exception:
-            print("invalid input")            
+            print("invalid input")
     except Exception as e:
         print(e.strerror)
     finally:
@@ -149,6 +150,5 @@ def AddQuestion(questions,unitfile):
 def ListQuestions(questions):
     for i,q in enumerate(questions,start=1):
         print(i,'.',q[0],'\n')
-    
-main()
 
+main()
