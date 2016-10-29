@@ -1,0 +1,117 @@
+[
+    [
+        "What are the 10 knowledge areas of project management?",
+        "Scope, Time, Cost, Quality, Human Resources, Communications, risk, Procurement, Stakeholer, Integration",
+        "scope",
+        "time",
+        "cost",
+        "quality",
+        "human resources",
+        "communications",
+        "risk",
+        "procurement",
+        "stakeholder",
+        "integration"
+    ],
+    [
+        "What is a project triple constraint?",
+        "Scope, time, cost, new qudruple constraint includes quality",
+        "scope",
+        "time",
+        "cost",
+        "quadruple",
+        "quality"
+    ],
+    [
+        "Describe the scope knowlesge area.",
+        "Involves defining and managing all the tasks required to complete the project successfully.",
+        "defining",
+        "managing",
+        "tasks",
+        "required",
+        "complete",
+        "success"
+    ],
+    [
+        "Describe the time knowledge area.",
+        "Includea estimating how long it will take to complete the work, developing an acceptable project schedule, ensuring timely completion of the project. ",
+        "estimating",
+        "how long",
+        "complete",
+        "schedule",
+        "timely completion"
+    ],
+    [
+        "Describe the cost knowledge area",
+        "Consists of preparing and managing the budget for the project. ",
+        "budget",
+        "prepar",
+        "manag",
+        "project"
+    ],
+    [
+        "Describe the quality knowledge area.",
+        "Ensure that the project will satisfy the stated or implied needs for which it was undertaken.",
+        "statisfy",
+        "stated",
+        "implied",
+        "needs"
+    ],
+    [
+        "describe the human resources knowledge area.",
+        "concerned with making effective use of the people involve with the project.",
+        "effective",
+        "people",
+        "involved",
+        "project"
+    ],
+    [
+        "Describe the communications knowledge area.",
+        "involves generating, collecting, disseminating, and storing proejct information.",
+        "generat",
+        "collect",
+        "disseminat",
+        "stor",
+        "information"
+    ],
+    [
+        "Describe the risk knowledge area.",
+        "Includea identifying, analysising, and responding to risks related to the project.",
+        "identif",
+        "analys",
+        "respond",
+        "risks",
+        "related",
+        "project"
+    ],
+    [
+        "Describe the procurement knowledge area.",
+        "involves acquiring or procuring goods and services for a project from outside the performing organisation.",
+        "acquir",
+        "procur",
+        "goods and services",
+        "outside",
+        "org"
+    ],
+    [
+        "Describe the stakeholder knowledge area.",
+        "Request, reject, support, approve, and oppose projects from stakeholder perspective.",
+        "request",
+        "reject",
+        "support",
+        "approve",
+        "oppose",
+        "perspect",
+        "stakehold"
+    ],
+    [
+        "describe the project integration knowledge area. ",
+        "Ensures the 9 other knowledge areas are managed properly.",
+        "manage",
+        "knowledge",
+        "areas",
+        "other",
+        "9",
+        "proper"
+    ]
+]

@@ -5,5 +5,8 @@
     "Sys & Databases",
     "Test unit",
     "Applied Comms - Difficult",
-    "OS - memory management - early systems"
+    "OS - memory management - early systems",
+    "Intelligent Systems",
+    "Project Methods - traditional",
+    "Project Methods - Agile"
 ]
