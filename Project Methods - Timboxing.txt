@@ -1,0 +1,75 @@
+[
+    [
+        "What is a timebox?",
+        "A timbox is a planned portion of work",
+        "planned",
+        "portion",
+        "work"
+    ],
+    [
+        "How long can a timebox be?",
+        "maximum of 14 days",
+        "max",
+        "14",
+        "day"
+    ],
+    [
+        "Can a timebox compromise on quality? (Yes or No)",
+        "no",
+        "no"
+    ],
+    [
+        "True or false: Never move to the next timebox until the previous timebox is complete.",
+        "True",
+        "true"
+    ],
+    [
+        "What are the phases of a timebox?",
+        "Kick off the MoSCoW, Investigation, refinement, consolidation, Close out. ",
+        "kick off",
+        "moscow",
+        "investig",
+        "refine",
+        "consolidat",
+        "close out"
+    ],
+    [
+        "What is accomplished in the kick off phase of a timebox?",
+        "decide on the objectives of the timebox, determine if it can be done in the allocated time, determine if it's the right next step, agree on acceptance criteria, analyse the risks for this timebox.",
+        "objectiv",
+        "allocat",
+        "time",
+        "right next step",
+        "agree",
+        "accept",
+        "risk"
+    ],
+    [
+        "What is accomplished during the investigation phase of a timebox?",
+        "details product to be delivered and quantities of the product.",
+        "product",
+        "deliver",
+        "quantit"
+    ],
+    [
+        "What is accomplished during the refinement phase of a timebox?",
+        "Refinement involves the bulk of development and testing. ",
+        "dev",
+        "test",
+        "bulk"
+    ],
+    [
+        "What is accomplished during the consolidation phase of a timebox? ",
+        "tying up loose ends and ensuring products meet acceptance criteria.",        
+        "loose end",
+        "accept",
+        "product"
+    ],
+    [
+        "What is accomplished during the close out phase of a timebox?",
+        "formal acceptance of the timebox deliverables.",
+        "formal",
+        "accept",
+        "deliver"
+    ]
+]

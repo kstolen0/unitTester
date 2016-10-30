@@ -8,5 +8,6 @@
     "OS - memory management - early systems",
     "Intelligent Systems",
     "Project Methods - traditional",
-    "Project Methods - Agile"
+    "Project Methods - Agile",
+    "Project Methods - Timboxing"
 ]
