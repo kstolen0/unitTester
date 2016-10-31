@@ -1,5 +1,46 @@
 [
     [
+        "What is mean by \"Never Compromise Quality\"?",
+        "Team must set and agree acceptance criteria. Ensure that quality does not become a variable. Design document and test. Constant review by the right people.",
+        "set",
+        "agree",
+        "acceptance criteris",
+        "acceptance",
+        "criteria",
+        "not",
+        "variable",
+        "design",
+        "document",
+        "test",
+        "early",
+        "often",
+        "review",
+        "right people"
+    ],
+    [
+        "What is meant by \"Build incrementally from firm foundations\"?",
+        "team must strive for early delivery of business benefit where possible, continually confirm that the correct solution is being built. formally re-assess moscow and ongoing project viability at each timebox.",
+        "early delivery",
+        "business benefit",
+        "confirm",
+        "",
+        "correct solution",
+        "moscow",
+        "assess",
+        "viability",
+        "timebox"
+    ],
+    [
+        "What does MoSCoW stand for?",
+        "Must have, Should have, Could have, Wont have (right now)",
+        "must",
+        "should",
+        "could",
+        "wont",
+        "right",
+        "now"
+    ],
+    [
         "Describe the difference between agile and traiditonal pm",
         "traditional treats scope as king, anything outside the scope is to be ignored, team actively tries to maintain project with the same scope. Agile sees change as good, looks to develop the scope as the project proceeds. Agile uses the MoSCoW principle. ",
         "scope",
@@ -14,16 +55,6 @@
         "moscow"
     ],
     [
-        "What does MoSCoW stand for?",
-        "Must have, Should have, Could have, Wont have (right now)",
-        "must",
-        "should",
-        "could",
-        "wont",
-        "right",
-        "now"
-    ],
-    [
         "What does the MUST in MoSCoW stand for? ",
         "Minimum Useable SubseT",
         "minimum",
@@ -31,23 +62,33 @@
         "subset"
     ],
     [
-        "What are the 8 principles of agile?",
-        "Focus on the business need, Deliver on time, collaborate, never compromise quality, build incrementally from firm founddations (BIFO), develop iteratively, communicate continuously and clearly, demonstrate control.",
-        "focus",
-        "business need",
-        "deliver",
-        "on time",
-        "collaborate",
-        "never compromise quality",
-        "bifo",
-        "build incrementaly",
-        "from firm foundations",
-        "develop iteratively",
-        "communicate",
-        "continuously and cleary",
-        "clearly",
-        "clearly",
-        "demonstrate control"
+        "What is meant by \"Communicate continuously and clearly\"?",
+        "Must run daily stand up meetings, must use facilitated workshopes, must model and prototype, must keep documentation, must have face to face communications at all levels of stakeholder management. ",
+        "daily",
+        "stand up",
+        "meetings",
+        "facilitated",
+        "workshops",
+        "model",
+        "prototype",
+        "keep documentation",
+        "face to face",
+        "communication",
+        "all levels",
+        "stakeholder",
+        "management",
+        "must"
+    ],
+    [
+        "What is meant by \"Collaborate\"?",
+        "Involve the right stakeholer at the right time throughout the project, team members are empowered to make decisions, actively involve business representatives, hold facilitated workshops. ",
+        "right stakeholder",
+        "right time",
+        "throughout",
+        "make decision",
+        "involve",
+        "represent",
+        "facilitated workshops"
     ],
     [
         "What is meant by \"Focus on the Business Need\"? ",
@@ -71,33 +112,27 @@
         "never"
     ],
     [
-        "What is meant by \"Collaborate\"?",
-        "Involve the right stakeholer at the right time throughout the project, team members are empowered to make decisions, actively involve business representatives, hold facilitated workshops. ",
-        "right stakeholder",
-        "right time",
-        "throughout",
-        "make decision",
-        "involve",
-        "represent",
-        "facilitated workshops"
+        "What are the 8 principles of agile?",
+        "Focus on the business need, Deliver on time, collaborate, never compromise quality, build incrementally from firm founddations (BIFO), develop iteratively, communicate continuously and clearly, demonstrate control.",
+        "focus",
+        "business need",
+        "deliver",
+        "on time",
+        "collaborate",
+        "never compromise",
+        "bifo",
+        "build incrementaly from firm foundations",
+        "develop iterative",
+        "communicate continuously and clearly",
+        "demonstrate control"
     ],
     [
-        "What is mean by \"Never Compromise Quality\"?",
-        "Team must set and agree acceptance criteria. Ensure that quality does not become a variable. Design document and test. Constant review by the right people.",
-        "set",
-        "agree",
-        "acceptance criteris",
-        "acceptance",
-        "criteria",
-        "not",
-        "variable",
-        "design",
-        "document",
-        "test",
-        "early",
-        "often",
-        "review",
-        "right people"
+        "What is meant by \"Demonstrate control\"?",
+        "must guarantee timeboxing. Must use burn down charts, must track velocity, must use technical expertise. ",
+        "timebox",
+        "burn down",
+        "track velocity",
+        "technical expertise"
     ],
     [
         "What does BIFO stand for?",
@@ -107,19 +142,6 @@
         "from",
         "firm",
         "foundations"
-    ],
-    [
-        "What is meant by \"Build incrementally from firm foundations\"?",
-        "team must strive for early delivery of business benefit where possible, continually confirm that the correct solution is being built. formally re-assess moscow and ongoing project viability at each timebox.",
-        "early delivery",
-        "business benefit",
-        "confirm",
-        "",
-        "correct solution",
-        "moscow",
-        "assess",
-        "viability",
-        "timebox"
     ],
     [
         "What is meant by \"Develop Iteratively\"?",
@@ -142,29 +164,31 @@
         "front"
     ],
     [
-        "What is meant by \"Communicate continuously and clearly\"?",
-        "Must run daily stand up meetings, must use facilitated workshopes, must model and prototype, must keep documentation, must have face to face communications at all levels of stakeholder management. ",
-        "daily",
-        "stand up",
-        "meetings",
-        "facilitated",
-        "workshops",
-        "model",
-        "prototype",
-        "keep documentation",
-        "face to face",
-        "communication",
-        "all levels",
-        "stakeholder",
-        "management",
-        "must"
+        "Which agile principle uses the EDUF rule? ",
+        "Develop iteratively",
+        "develop",
+        "iterat"
     ],
     [
-        "What is meant by \"Demonstrate control\"?",
-        "must guarantee timeboxing. Must use burn down charts, must track velocity, must use technical expertise. ",
-        "timebox",
-        "burn down",
-        "track velocity",
-        "technical  expertise"
+        "Which agile principle requires the team to strive for early delivery of the business benefit, where possible?",
+        "Build Incrementally from Firm fOundations",
+        "build",
+        "incrementally",
+        "firm",
+        "foundati"
+    ],
+    [
+        "Which principle requires the team to Model and prototype?",
+        "Communicate continuously and clearly",
+        "commu",
+        "contin",
+        "clear"
+    ],
+    [
+        "Decisions based around project goals, not wants. clear understanding of business priorities. Supported by business rules and agred products, are all examples of which agile principle? ",
+        "Focus on the Business Need",
+        "focus",
+        "busin",
+        "need"
     ]
 ]

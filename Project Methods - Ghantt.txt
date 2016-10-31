@@ -1,0 +1,61 @@
+[
+    [
+        "What does WBS stand for?",
+        "Work Breakdown Structure",
+        "work",
+        "breakdown",
+        "struct"
+    ],
+    [
+        "Why is the WBS considered the foundation document for a project? ",
+        "Because it provides the basis for planing nad managing project schedules, costs, resources, and changes. ",
+        "basis",
+        "planning",
+        "manag",
+        "schedule",
+        "cost",
+        "resourc",
+        "change"
+    ],
+    [
+        "What do some project management experts say about the WBS? ",
+        "Work should not be completed if it is not included in the WBS. ",
+        "not",
+        "complet",
+        "includ",
+        "wbs"
+    ],
+    [
+        "How is a WBS depicted?",
+        "Depicted as a task oriented tree of activities, similar to an organisational chart. ",
+        "task",
+        "oriented",
+        "tree",
+        "activities"
+    ],
+    [
+        "Who organises the WBS?",
+        "The project team.",
+        "team"
+    ],
+    [
+        "How is the WBS organized? ",
+        "wbs can be organized around project products, phases, or process groups. ",
+        "product",
+        "phase",
+        "process",
+        "group"
+    ],
+    [
+        "What is the name of the task at the lowest level of a WBS?",
+        "work package",
+        "work",
+        "package"
+    ],
+    [
+        "What is the name of the tasks which are not at the lowest level of a WBS? ",
+        "summary task",
+        "summary",
+        "task"
+    ]
+]

@@ -9,5 +9,7 @@
     "Intelligent Systems",
     "Project Methods - traditional",
     "Project Methods - Agile",
-    "Project Methods - Timboxing"
+    "Project Methods - Timboxing",
+    "Project Methods - Ghantt",
+    "easy test"
 ]

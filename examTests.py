@@ -93,7 +93,58 @@ def TestExam(questions):
     random.shuffle(questions)
     score = 0
     total = 0
-    testLen = int(input("How questions would you like, between 1 and " + str(len(questions)) + ":\t"))
+    temp = [] 
+    testLen = int(input("How many questions would you like, between 1 and " + str(len(questions)) + ":\t"))
+    it = 0
+    for i,q in enumerate(questions,start=1):
+        if i > testLen:
+            break
+        
+        keyCount = 0        
+        print(i,".",q[0])
+        userAnswer = input("")
+        for i in range(2,len(q)):
+            total+=1            
+            if q[i].lower() in userAnswer.lower():
+                keyCount+=1         
+        print("\nNumber of matched keywords in answer: ", keyCount, " / ", len(q)-2)
+        print("\nExam Answer: ", q[1],'\n\n')        
+        score += keyCount
+        if (keyCount/(len(q)-2)) < 0.7:            
+            t = q                       
+            temp.append(t)
+            total -= (len(q)-2)
+            score -= keyCount           
+
+    while len(temp) > 0:
+        it += 1
+        popper = []
+        for i,q in enumerate(temp,start=1):
+            keyCount = 0            
+            print(i,"+", it, ".",q[0])
+            userAnswer = input("")
+            for j in range(2,len(q)):
+                total+=1
+                if q[j].lower() in userAnswer.lower():
+                    keyCount += 1      
+        
+            print("\nNumber of matched keywords in answer: ", keyCount, " / ", len(q)-2)
+            print("\nExam Answer: ", q[1],'\n\n')        
+            score += keyCount
+            if (keyCount/(len(q)-2)) < 0.7:            
+                total -= (len(q)-2)
+                score -= keyCount
+            else:
+                popper.append(int(i-1))
+        popper.sort()
+        popper.reverse()
+        for i,q in enumerate(popper):            
+            temp.pop(q)       
+    
+    print("You scored ", score, " out of ", total)
+    print("\n\t", int((score/total*100)), "%\n")  
+    
+    '''
     for i,q in enumerate(questions,start=1):
         if i > testLen:
             break
@@ -105,12 +156,13 @@ def TestExam(questions):
             total+=1
             if q[i].lower() in userAnswer.lower():
                 keyCount+=1
-        print("\nNumber of matched keywords in answer: ", keyCount)
-        print("\nExam Answer: ", q[1],'\n\n')
+        print("\nNumber of matched keywords in answer: ", keyCount, " / ", len(q)-2)
+        print("\nExam Answer: ", q[1],'\n\n')        
         score += keyCount
+        
     print("You scored ", score, " out of ", total)
     print("\n\t", int((score/total*100)), "%\n")
-
+'''
 
 def DeleteQuestion(questions,unitfile):
     try:
