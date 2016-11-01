@@ -203,14 +203,17 @@
     ],
     [
         "Using your prefered environment, draw a burndown chart. ",
-        "Check folder directory for reference. "
+        "Check folder directory for reference. ",
+        ""
     ],
     [
         "Using your prefered environment, illustrate the MoSCoW diagram. ",
-        "check folder directory for reference."
+        "check folder directory for reference.",
+        ""
     ],
     [
         "Using your prefered environment, illustrate the difference between agile and traditional project management in terms of they they treat scope. ",
-        "Check folder directory for reference. "
+        "Check folder directory for reference. ",
+        ""
     ]
 ]
