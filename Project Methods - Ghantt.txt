@@ -57,5 +57,59 @@
         "summary task",
         "summary",
         "task"
+    ],
+    [
+        "What does a ghantt chart provide? ",
+        "Provides a standard format for displaying project schedule information by listing project activities in a WBS and their corresponding start and finish dates in calender form. ",
+        "standard format",
+        "disp",
+        "sched",
+        "list",
+        "activi",
+        "wbs",
+        "start",
+        "finish",
+        "calend"
+    ],
+    [
+        "What items are displayed in a ghantt chart? ",
+        "Displays project milestones, summary tasks, individual task durations, and arrows showing dependencies. ",
+        "milest",
+        "summ",
+        "task",
+        "indiv",
+        "arro",
+        "depen"
+    ],
+    [
+        "Why have milestones in a ghantt chart? ",
+        "milestones are an important part of a project schedule, especially for large projects. Milestones help track significant points in a project, they also reduce schedule risk. ",
+        "import",
+        "sched",
+        "larg",
+        "track",
+        "sign",
+        "redu",
+        "risk"
+    ],
+    [
+        "What should you use to make a milestone useful?",
+        "Use the SMART criteria",
+        "smart",
+        "crit"
+    ],
+    [
+        "What does SMART stand for? ",
+        "Specific, Measurable, Assignable, Realistic, Time-framed",
+        "speci",
+        "measur",
+        "assign",
+        "reali",
+        "time"
+    ],
+    [
+        "What should the SMART criteria be used for? ",
+        "Deciding whether to assign a milestone. ",
+        "milest"
     ]
 ]
