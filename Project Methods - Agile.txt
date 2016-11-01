@@ -190,5 +190,27 @@
         "focus",
         "busin",
         "need"
+    ],
+    [
+        "What is a burn down chart?",
+        "A burn down chart is a graphical represenation of work left to do versus time. It is useful for predicting when all the work will be completed. ",
+        "graph",
+        "work",
+        "left",
+        "time",
+        "predi",
+        "compl"
+    ],
+    [
+        "Using your prefered environment, draw a burndown chart. ",
+        "Check folder directory for reference. "
+    ],
+    [
+        "Using your prefered environment, illustrate the MoSCoW diagram. ",
+        "check folder directory for reference."
+    ],
+    [
+        "Using your prefered environment, illustrate the difference between agile and traditional project management in terms of they they treat scope. ",
+        "Check folder directory for reference. "
     ]
 ]

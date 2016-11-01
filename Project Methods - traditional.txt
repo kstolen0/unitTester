@@ -113,5 +113,9 @@
         "other",
         "9",
         "proper"
+    ],
+    [
+        "Using your prefered environment, illustrate the 10 knowledge areas of project management. ",
+        "Check folder directory for reference. "
     ]
 ]

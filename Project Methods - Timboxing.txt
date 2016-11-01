@@ -63,7 +63,8 @@
         "tying up loose ends and ensuring products meet acceptance criteria.",        
         "loose end",
         "accept",
-        "product"
+        "product",
+		"crit"
     ],
     [
         "What is accomplished during the close out phase of a timebox?",
@@ -71,5 +72,9 @@
         "formal",
         "accept",
         "deliver"
+    ],
+    [
+        "Using your prefered environment, draw a timebox diagram.",
+        "Check folder directory for reference. "
     ]
 ]

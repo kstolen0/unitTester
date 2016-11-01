@@ -8,7 +8,7 @@
     ],
     [
         "Why is the WBS considered the foundation document for a project? ",
-        "Because it provides the basis for planing nad managing project schedules, costs, resources, and changes. ",
+        "Because it provides the basis for planning and managing project schedules, costs, resources, and changes. ",
         "basis",
         "planning",
         "manag",
