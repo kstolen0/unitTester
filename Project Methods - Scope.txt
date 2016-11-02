@@ -1,13 +1,31 @@
 [
     [
-        "What are some of the tools and techniques involved in scope management? ",
-        "scope statements, work breakdown structures, statements of work, scope management plans, scope change controls, scope verification techniques. ",
-        "state",
-        "breakd",
-        "work",
-        "manag",
-        "contro",
-        "chang",
+        "What are some of the tools and techniques involved in scope management? ", 
+        "scope statements, work breakdown structures, statements of work, scope management plans, scope change controls, scope verification techniques. ", 
+        "state", 
+        "breakd", 
+        "work", 
+        "manag", 
+        "contro", 
+        "chang", 
         "verif"
+    ], 
+    [
+        "What should you do with work not included in the scope statement?", 
+        "work that is not included in the scope statement should be ignored", 
+        "ignored", 
+        "scope", 
+        "statement", 
+        "work"
+    ], 
+    [
+        "What is involved in Scope Control?", 
+        "\tInvolves controlling changes to the project scope and must ensure changes are processed according to procedures as well as manage changes when they occur.", 
+        "control", 
+        "change", 
+        "scope", 
+        "process", 
+        "procedure", 
+        "manage"
     ]
 ]
