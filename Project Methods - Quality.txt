@@ -1,0 +1,18 @@
+[
+    [
+        "What are some of the tools and techniques used in quality management? ",
+        "Quality metrics, checklists, quality control charts, pareto diagrams, fishbone diagrams, maturity models, statistiacal methods, test plans. ",
+        "quali",
+        "metri",
+        "checkl",
+        "contro",
+        "chart",
+        "pareto",
+        "fishb",
+        "diagr",
+        "maturi",
+        "statis",
+        "test",
+        "plan"
+    ]
+]

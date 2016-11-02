@@ -1,0 +1,20 @@
+[
+    [
+        "What are some of the tools and techniques used in human resource management? ",
+        "motivation techniques, empathetic listening, responsibility assignment matrices, project organizational charts, resource histograms, team building exercises",
+        "motiva",
+        "techn",
+        "empath",
+        "listen",
+        "responsi",
+        "assign",
+        "matrices",
+        "organi",
+        "chart",
+        "resour",
+        "histogr",
+        "team",
+        "build",
+        "exerc"
+    ]
+]

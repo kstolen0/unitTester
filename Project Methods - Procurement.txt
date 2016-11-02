@@ -1,0 +1,18 @@
+[
+    [
+        "What are some of the tools and techniques used in procurement management? ",
+        "Make-or-buy analyses, contracts, requests for proposals or quotes, source selections, supplier evaluation matrices. ",
+        "make",
+        "buy",
+        "analy",
+        "contract",
+        "request",
+        "propos",
+        "quot",
+        "source",
+        "selec",
+        "suppl",
+        "eval",
+        "matri"
+    ]
+]

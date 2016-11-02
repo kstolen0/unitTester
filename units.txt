@@ -1,6 +1,17 @@
-[    
+[
     "Project Methods - traditional",
     "Project Methods - Agile",
     "Project Methods - Timboxing",
-    "Project Methods - Ghantt"
+    "Project Methods - Ghantt",
+    "test",
+    "Project Methods - Integration",
+    "Project Methods - Scope",
+    "Project Methods - time",
+    "Project Methods - Cost",
+    "Project Methods - Quality",
+    "Project Methods - Human Resources",
+    "Project Methods - Communications",
+    "Project Methods - Risk",
+    "Project Methods - Procurement",
+    "Project Methods - Stakeholder"
 ]

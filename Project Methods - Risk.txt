@@ -1,0 +1,14 @@
+[
+    [
+        "What are some of the tools and techniques used in risk management? ",
+        "risk management plans, risk registers, probability/impact matrices, risk rankings. ",
+        "risk",
+        "managem",
+        "plan",
+        "regist",
+        "prob",
+        "impac",
+        "matri",
+        "rank"
+    ]
+]

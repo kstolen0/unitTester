@@ -1,0 +1,13 @@
+[
+    [
+        "What are some of the tools and techniques involved in scope management? ",
+        "scope statements, work breakdown structures, statements of work, scope management plans, scope change controls, scope verification techniques. ",
+        "state",
+        "breakd",
+        "work",
+        "manag",
+        "contro",
+        "chang",
+        "verif"
+    ]
+]

@@ -1,0 +1,16 @@
+[
+    [
+        "What are some of the tools and techniques involved in integration management? ",
+        "Project selection methods, project management methodologies, stakeholder analyses, work requests, project charters, project management plans, project management software, change requests, change control boards, project review meetings, lessons-learned reports. ",
+        "less",
+        "revie",
+        "change",
+        "requ",
+        "contr",
+        "plan",
+        "softw",
+        "meet",
+        "metho",
+        "analy"
+    ]
+]

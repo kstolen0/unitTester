@@ -1,0 +1,14 @@
+[
+    [
+        "What are some of the tools and techniques used in time management? ",
+        "gantt charts, network diagrams, critical path analysis, crashing, fast tracking, schedule performance measurements. ",
+        "antt char",
+        "networ",
+        "diagr",
+        "criti",
+        "path",
+        "tracki",
+        "fast",
+        "sched"
+    ]
+]

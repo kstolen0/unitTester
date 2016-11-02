@@ -1,0 +1,17 @@
+[
+    [
+        "What are some of the tools and techniques used in cost management? ",
+        "project budgets, net present value, retuyrn on investment, payback analysis, earned value management, project portfolio management, cost estimates, cost management plans, cost baselines. ",
+        "budget",
+        "net prese",
+        "value",
+        "return",
+        "invest",
+        "payback",
+        "manage",
+        "portfol",
+        "cost",
+        "esti",
+        "baselin"
+    ]
+]
