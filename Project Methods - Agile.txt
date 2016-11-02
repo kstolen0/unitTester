@@ -114,17 +114,15 @@
     [
         "What are the 8 principles of agile?",
         "Focus on the business need, Deliver on time, collaborate, never compromise quality, build incrementally from firm founddations (BIFO), develop iteratively, communicate continuously and clearly, demonstrate control.",
-        "focus",
-        "business need",
-        "deliver",
-        "on time",
-        "collaborate",
+        "focus on the business need",
+        "deliver on time",
+        "collabor",
         "never compromise",
         "bifo",
         "build incrementaly from firm foundations",
-        "develop iterative",
-        "communicate continuously and clearly",
-        "demonstrate control"
+        "develop iterativ",
+        "communicate continuously and clear",
+        "demonstrate cont"
     ],
     [
         "What is meant by \"Demonstrate control\"?",
