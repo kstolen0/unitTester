@@ -13,5 +13,128 @@
         "cost",
         "esti",
         "baselin"
+    ],
+    [
+        "What is cost?",
+        "Cost is defined as a resource sacrificed or foregone to achieve a specific objective. ",
+        "resour",
+        "sacrif",
+        "foreg",
+        "achi",
+        "object"
+    ],
+    [
+        "What are the four processes for project cost management? ",
+        "Planning cost management. Estimating Costs. Determining the budget. Controlling costs. ",
+        "plan",
+        "cost",
+        "manage",
+        "estima",
+        "determ",
+        "budget",
+        "control"
+    ],
+    [
+        "What is involved in Planning Cost Management? ",
+        "Involves the policies, procedures, and documentation whtat will be used for planning, executing, and controlling project cost. ",
+        "polic",
+        "proced",
+        "documen",
+        "plann",
+        "exec",
+        "control",
+        "cost"
+    ],
+    [
+        "What are the main outputs of Planning Cost Management? ",
+        "The main output is a cost management plan. ",
+        "cost",
+        "managem",
+        "plan"
+    ],
+    [
+        "What is involved in Estimating costs? ",
+        "Involves developing an approximation or estimate of the costs of the resources needed to complete the project. ",
+        "devel",
+        "approx",
+        "estim",
+        "cost",
+        "resour",
+        "complet",
+        "project"
+    ],
+    [
+        "What are the main outputs of Estimating Costs? ",
+        "Activity cost estimates, basis of estimates, and project documents updates. ",
+        "activ",
+        "cost",
+        "estim",
+        "basis",
+        "project",
+        "docum",
+        "update"
+    ],
+    [
+        "What is involved in Determining The Budget? ",
+        "Involves allocating the overall cost estimate to individual work items to establish a baseline for measuring performance. ",
+        "alloc",
+        "cost",
+        "estim",
+        "indiv",
+        "work item",
+        "estab",
+        "baseline",
+        "measu",
+        "perform"
+    ],
+    [
+        "What are the main outputs of Determining The Budget? ",
+        "Cost baseline, project funding requirements, project documents updates. ",
+        "cost",
+        "baseline",
+        "proj",
+        "fund",
+        "req",
+        "docum",
+        "updat"
+    ],
+    [
+        "What is involved in Controlling Costs? ",
+        "Involves controlling changes to the project budget. ",
+        "control",
+        "change",
+        "budget"
+    ],
+    [
+        "What are the main outputs of Controlling Costs? ",
+        "Work performance information. Cost forecasts. Change requests. Project management plan updates. Project documents updates. organizational process assets updates. ",
+        "work",
+        "perform",
+        "info",
+        "cost",
+        "forecas",
+        "change",
+        "req",
+        "projec",
+        "manag",
+        "plan",
+        "updat",
+        "docum",
+        "organi",
+        "process",
+        "assets up"
+    ],
+    [
+        "Why is it important for project managers to understand both technical and financial information? ",
+        "PMs need to be able to discuss and present project information in both finncial and technical terms because most members of the executive board have a better understanding of the financial terms. ",
+        "discus",
+        "present",
+        "info",
+        "finan",
+        "tech",
+        "exec",
+        "board",
+        "understa",
+        "term"
     ]
 ]
