@@ -1,31 +1,134 @@
 [
     [
-        "What are some of the tools and techniques involved in scope management? ", 
-        "scope statements, work breakdown structures, statements of work, scope management plans, scope change controls, scope verification techniques. ", 
-        "state", 
-        "breakd", 
-        "work", 
-        "manag", 
-        "contro", 
-        "chang", 
+        "What are some of the tools and techniques involved in scope management? ",
+        "scope statements, work breakdown structures, statements of work, scope management plans, scope change controls, scope verification techniques. ",
+        "state",
+        "breakd",
+        "work",
+        "manag",
+        "contro",
+        "chang",
         "verif"
-    ], 
+    ],
     [
-        "What should you do with work not included in the scope statement?", 
-        "work that is not included in the scope statement should be ignored", 
-        "ignored", 
-        "scope", 
-        "statement", 
+        "What should you do with work not included in the scope statement?",
+        "work that is not included in the scope statement should be ignored",
+        "ignored",
+        "scope",
+        "statement",
         "work"
-    ], 
+    ],
     [
-        "What is involved in Scope Control?", 
-        "\tInvolves controlling changes to the project scope and must ensure changes are processed according to procedures as well as manage changes when they occur.", 
-        "control", 
-        "change", 
-        "scope", 
-        "process", 
-        "procedure", 
+        "What is involved in Scope Control?",
+        "\tInvolves controlling changes to the project scope and must ensure changes are processed according to procedures as well as manage changes when they occur.",
+        "control",
+        "change",
+        "scope",
+        "process",
+        "procedure",
         "manage"
+    ],
+    [
+        "What is a WBS?",
+        "The WBS is a foundation document in project management because it provides the basis for planning and managing project schedules, costs, resources and changes",
+        "WBS",
+        "foundation",
+        "document",
+        "project",
+        "manage",
+        "basis",
+        "plan",
+        "schedule",
+        "cost",
+        "resource",
+        "change"
+    ],
+    [
+        "What is a work package?",
+        "The task at the lowest level of the WBS that represents the level of work that the project manager monitors and controls",
+        "task",
+        "low",
+        "level",
+        "wbs",
+        "work",
+        "monitor",
+        "control"
+    ],
+    [
+        "What is a deliverable?",
+        "Tangible, verifiable work products.",
+        "tangible",
+        "verifiable",
+        "work",
+        "product"
+    ],
+    [
+        "Give 3 examples of a deliverable",
+        "reports, presentations, prototypes",
+        "report",
+        "presentation",
+        "prototype"
+    ],
+    [
+        "What is a milestone?",
+        "Significant events or achievements. They can also be acceptance of deliverables or phase completions, cruxes and can be used for quality control as well as keeping the team focused",
+        "event",
+        "achievement",
+        "deliverable",
+        "phase",
+        "quality",
+        "completion"
+    ],
+    [
+        "What is a wbs dictionary?",
+        "a wbs dictionary is a document that describes each WBS task in detail",
+        "wbs",
+        "dictionary",
+        "document",
+        "task",
+        "detail"
+    ],
+    [
+        "What makes up a scope baseline?",
+        "approved project scope statement, the associated wbs and the wbs dictionary.",
+        "",
+        "approve",
+        "scope",
+        "statement",
+        "associate",
+        "wbs",
+        "dictionary"
+    ],
+    [
+        "What is a scope baseline?",
+        "a baseline is the starting point, a measurement, or an observation that is documented so that it can be used for future comparison",
+        "measurement",
+        "observation",
+        "document",
+        "future"
+    ],
+    [
+        "What is scope creep?",
+        "scope creep is the the tendency for project scope to keep getting bigger and bigger",
+        "scope",
+        "big"
+    ],
+    [
+        "What is variance?",
+        "The difference between planned and actual performance",
+        "plan",
+        "actual",
+        "performance"
+    ],
+    [
+        "What are the 5 processes in scope management?",
+        "Scope planning, scope definition, creating the wbs, scope verification, scope control",
+        "scope",
+        "planning",
+        "definition",
+        "creat",
+        "wbs",
+        "verification",
+        "control"
     ]
 ]
