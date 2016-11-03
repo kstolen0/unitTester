@@ -136,5 +136,94 @@
         "board",
         "understa",
         "term"
-    ]    
+    ],
+    [
+        "What is cash flow anaylsis? ",
+        "a method for determining the estimated annual costs and benefits for a project and teh resulting annual cash flow. Used to determine net present value. ",
+        "method",
+        "deter",
+        "estim",
+        "ual",
+        "cost",
+        "benef",
+        "result",
+        "cash flow",
+        "net",
+        "present",
+        "value"
+    ],
+    [
+        "What are 5 different types of cost? ",
+        "tangible costs, intangible costs, direct costs, indirect costs, sunk cost. ",
+        "tangible",
+        "intangible",
+        "direct",
+        "indirect",
+        "sunk"
+    ],
+    [
+        "Describe tangible cost.",
+        "Easy to measure, often have monetary values. ",
+        "easy",
+        "measure",
+        "monet",
+        "val"
+    ],
+    [
+        "Describe intangible cost. ",
+        "difficult to measure, e.g. time. ",
+        "diffic",
+        "meas",
+        "time"
+    ],
+    [
+        "Describe direct costs.",
+        "costs directly related to the creation of the product. Salaries, hardware and software purcahsed specifically for the project. ",
+        "cost",
+        "direct",
+        "relat",
+        "product",
+        "sal",
+        "hardw",
+        "softw",
+        "specific",
+        "project"
+    ],
+    [
+        "Describe indirect costs. ",
+        "costs not directly related to the project.Includes the cost of electricity and other utilities. Project manager have little control over these. ",
+        "cost",
+        "not",
+        "direct",
+        "rela",
+        "project",
+        "util",
+        "little control"
+    ],
+    [
+        "Describe sunk cost. ",
+        "the money that has already been spent on a project. ",
+        "already",
+        "spent",
+        "project."
+    ],
+    [
+        "Which cost should be ignored when deciding to invest in a project?",
+        "sunk cost. ",
+        "sunk"
+    ],
+    [
+        "What is learning curve theory? ",
+        "When many items are produced repetitively, the unit cost of those items decreases in a regular pattern as more units are produced. ",
+        "repe",
+        "unit cost",
+        "more units"
+    ],
+    [
+        "How does learning curve theory help in estimating costs?",
+        "helps in areas that involve the production of large quantities of items. Alsoo applies to time required to complete tasks. ",
+        "product",
+        "large",
+        "quant"
+    ]
 ]
