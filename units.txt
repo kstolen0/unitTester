@@ -13,5 +13,6 @@
     "Project Methods - Communications",
     "Project Methods - Risk",
     "Project Methods - Procurement",
-    "Project Methods - Stakeholder"
+    "Project Methods - Stakeholder",
+    "Project Methods - Cost - EVM"
 ]
