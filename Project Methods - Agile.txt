@@ -4,9 +4,7 @@
         "Team must set and agree acceptance criteria. Ensure that quality does not become a variable. Design document and test. Constant review by the right people.",
         "set",
         "agree",
-        "acceptance criteris",
-        "acceptance",
-        "criteria",
+        "acceptance criteria",
         "not",
         "variable",
         "design",
@@ -23,7 +21,6 @@
         "early delivery",
         "business benefit",
         "confirm",
-        "",
         "correct solution",
         "moscow",
         "assess",
@@ -57,9 +54,7 @@
     [
         "What does the MUST in MoSCoW stand for? ",
         "Minimum Useable SubseT",
-        "minimum",
-        "useable",
-        "subset"
+        "minimum useable subset"
     ],
     [
         "What is meant by \"Communicate continuously and clearly\"?",
@@ -67,7 +62,7 @@
         "daily",
         "stand up",
         "meetings",
-        "facilitated",
+        "facilitat",
         "workshops",
         "model",
         "prototype",
@@ -95,7 +90,7 @@
         "Decisions are based around project goals, not wants. Clear understanding of business priorities (moscow rules). Guarantee Minimum Useable SubseT (MUST haves). Supported by business roles and agreed products. ",
         "project goals",
         "not wants",
-        "understanding business priorities",
+        "business priorities",
         "moscow",
         "agreed",
         "guarantee",
@@ -164,30 +159,22 @@
     [
         "Which agile principle uses the EDUF rule? ",
         "Develop iteratively",
-        "develop",
-        "iterat"
+        "develop iteratively"
     ],
     [
         "Which agile principle requires the team to strive for early delivery of the business benefit, where possible?",
         "Build Incrementally from Firm fOundations",
-        "build",
-        "incrementally",
-        "firm",
-        "foundati"
+        "build incrementally from firm foundations"
     ],
     [
         "Which principle requires the team to Model and prototype?",
         "Communicate continuously and clearly",
-        "commu",
-        "contin",
-        "clear"
+        "communicate continuously and clearly"
     ],
     [
         "Decisions based around project goals, not wants. clear understanding of business priorities. Supported by business rules and agred products, are all examples of which agile principle? ",
         "Focus on the Business Need",
-        "focus",
-        "busin",
-        "need"
+        "focus on the business need"
     ],
     [
         "What is a burn down chart?",
