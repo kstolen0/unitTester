@@ -52,7 +52,7 @@
     [
         "Describe the quality knowledge area.",
         "Ensure that the project will satisfy the stated or implied needs for which it was undertaken.",
-        "statisfy",
+        "satisfy",
         "stated",
         "implied",
         "needs"
@@ -99,8 +99,8 @@
         "request",
         "reject",
         "support",
-        "approve",
-        "oppose",
+        "approv",
+        "oppos",
         "perspect",
         "stakehold"
     ],
