@@ -10,5 +10,88 @@
         "tracki",
         "fast",
         "sched"
+    ],
+    [
+        "What does the critical path in a project represent? ",
+        "Represents a series of activities that determine the earliest time by which the project can be completed. It is the longest path through the network diagram and has the least amount of slack or float.",
+        "series",
+        "activit",
+        "earliest time",
+        "complete",
+        "longest path",
+        "slack",
+        "float",
+        "least"
+    ],
+    [
+        "What is the Critical Path Method used to predict?",
+        "The Critical Path Merthod (CPM) is used to predict the total project duration. ",
+        "cpm",
+        "predict",
+        "total",
+        "project",
+        "durat"
+    ],
+    [
+        "What is meant by the terms \"slack\" and \"float\"?",
+        "Slack or float is the amount of time an activity may be delayed without delaying a succeeding activity or the project finish date. ",
+        "amount",
+        "time",
+        "activit",
+        "delayed",
+        "delaying",
+        "succeed",
+        "finish"
+    ],
+    [
+        "What drives the completion date for the project?",
+        "The longest path, or the patth that contains the critical tasks, is what drives the completion date for the project. ",
+        "longest",
+        "path",
+        "critical task"
+    ],
+    [
+        "What is needed in order to find the critical path? ",
+        "A good network diagram, which in turn requires a good activity list based on the WBS. ",
+        "network diagram",
+        "activity list",
+        "wbs",
+        "based"
+    ],
+    [
+        "What do you need to do once you create a network diagram? ",
+        "Estimate the duration of each activity to determine the critical path. ",
+        "estima",
+        "dura",
+        "activit"
+    ],
+    [
+        "Why is it important to know the critical path throughout the life of the project? ",
+        "It is important so the project manager can make trade-offs. If a task on the critical path is behind schedule, then project manager must be aware of the problem and decide what to do about it. ",
+        "trade-off",
+        "task",
+        "critical path",
+        "behind schedule",
+        "aware",
+        "decide"
+    ],
+    [
+        "What could a project manager do when a task on the critical path is behind schedule? ",
+        "Renogotiate the schedule with stakeholders, allocate more resources to that task, consider if the project is allowed to finish behind schedule. ",
+        "renego",
+        "schedule",
+        "stakeholder",
+        "allocat",
+        "resourc",
+        "task",
+        "finish"
+    ],
+    [
+        "Describe a technique that can help project managers schedule trade-offs. ",
+        "Determining the free slack and total slack for each activity can help in scheduling trade-offs. ",
+        "determ",
+        "free slack",
+        "total slack",
+        "activit"
     ]
 ]

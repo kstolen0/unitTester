@@ -205,7 +205,7 @@
         "the money that has already been spent on a project. ",
         "already",
         "spent",
-        "project."
+        "project"
     ],
     [
         "Which cost should be ignored when deciding to invest in a project?",

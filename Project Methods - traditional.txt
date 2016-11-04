@@ -117,6 +117,17 @@
     [
         "Using your prefered environment, illustrate the 10 knowledge areas of project management. ",
         "Check folder directory for reference. ",
-	""
+        ""
+    ],
+    [
+        "What happens when the project stakeholders are not satisfied with the quality of a project?",
+        "The project team needs to adjust the scope, time, and cost of the project to satisfy the stakeholder. ",
+        "team",
+        "adjust",
+        "scope",
+        "time",
+        "cost",
+        "satisf",
+        "stakeholder"
     ]
 ]
