@@ -110,7 +110,7 @@
         "spi"
     ],
     [
-        "How is the cost variance calculated? ",
+        "How is the Cost Variance calculated? ",
         "Earned value minus the actual cost. If negative, work cost more than planned. If positive, work cost less than planned. ",
         "earned value",
         "minus",
@@ -122,7 +122,7 @@
         "cost"
     ],
     [
-        "How is the schedule variance calculated? ",
+        "How is the Schedule Variance calculated? ",
         "Earned value minus the planned value. If negative, then work took longer than expected, if positive, then work took less time than expected. ",
         "earned",
         "minus",
@@ -163,9 +163,9 @@
         "time",
         "comple",
         "100",
-        "less",
-        "longer",
-        "more"
+	"on schedule",
+	"behind schedule",
+	"ahead of schedule"        
     ],
     [
         "What metrics are required in order to calculate the Estimate At Completion? ",

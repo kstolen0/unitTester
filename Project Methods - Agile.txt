@@ -1,7 +1,7 @@
 [
     [
         "What is mean by \"Never Compromise Quality\"?",
-        "Team must set and agree acceptance criteria. Ensure that quality does not become a variable. Design document and test. Constant review by the right people.",
+        "Team must set and agree acceptance criteria. Ensure that quality does not become a variable. Design document and test. Test early and often. Constant review by the right people.",
         "set",
         "agree",
         "acceptance criteria",
@@ -13,7 +13,9 @@
         "early",
         "often",
         "review",
-        "right people"
+        "right people",
+	"early",
+	"often"
     ],
     [
         "What is meant by \"Build incrementally from firm foundations\"?",
