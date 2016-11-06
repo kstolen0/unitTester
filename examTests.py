@@ -95,7 +95,7 @@ def TestExam(questions):
     total = 0
     temp = [] 
     testLen = int(input("How many questions would you like, between 1 and " + str(len(questions)) + ":\t"))
-    it = 0
+    it = 1
     for i,q in enumerate(questions,start=1):
         if i > testLen:
             break
@@ -121,7 +121,7 @@ def TestExam(questions):
         popper = []
         for i,q in enumerate(temp,start=1):
             keyCount = 0            
-            print(i,"+", it, ".",q[0])
+            print(it,"+", i, ".",q[0])
             userAnswer = input("")
             for j in range(2,len(q)):
                 total+=1
